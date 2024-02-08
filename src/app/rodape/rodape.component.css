@@ -1,0 +1,19 @@
+hr.rounded {
+    border-top: 8px solid #353333;
+    border-radius: 5px;
+}
+
+
+footer {
+    background: rgb(255, 255, 255);
+    color: rgb(17, 17, 17);
+    text-align: left;
+    height: 100px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+img {
+    height: 70px;
+    width: px;
+}
