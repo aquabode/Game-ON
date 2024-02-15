@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "produto": "Lenovo",
+      "descricao": "Intel core i9, 2Tb, 64Gb DDR5",
+      "foto": "pc1.png",
+      "preco": 12500
+    }
+  ]
+}
